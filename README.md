@@ -1,6 +1,6 @@
 ### Olá!! Eu sou a Danielle Siqueira 🙆🏻‍♀️ 
 
-- 🔭 Hoje trabalho como desenvolvedora Back-end
+- 🔭 Trabalho como desenvolvedora Back-end .Net
 - 😄 Pronouns: Ela/Dela
 
 <!--
