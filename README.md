@@ -1,19 +1,8 @@
-### Olá!! Eu sou a Danielle Siqueira 🙆🏻‍♀️ 
+Olá! 👩🏻‍💻 Meu nome é Danielle Siqueira
+=========================================================================================================================================
 
-- 🔭 Trabalho como desenvolvedora Back-end .Net
-- 😄 Pronouns: Ela/Dela
+Desenvolvedora Back-end | C#
+----------------------------
 
-<!--
-**daniellesiq/daniellesiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 5 anos de experiência em programação e engenharia de software, trabalhando com tecnologias do ecossistema .NET, C#, ASP.NET, SQL Server e Azure .
 
-Here are some ideas to get you started:
-
- 🔭 I’m currently working on back-end C#
- 🌱 I’m currently learning C#
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
- 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
--->
